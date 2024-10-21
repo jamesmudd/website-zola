@@ -16,9 +16,14 @@ highlight_code = false
 
 [extra]
 # Put all your custom variables here
-author.name = "James"
+author.name = "James Mudd"
+iam = "I am"
 links = [
-    { title = "GitHub", url = "https://github.com/jamesmudd", icon = "github" },
+#    { title = "GitHub", url = "https://github.com/jamesmudd", icon = "github" },
     { title = "Twitter", url = "https://twitter.com/jamesmudd", icon = "twitter" },
     { title = "LinkedIn", url = "https://www.linkedin.com/in/jamesmudd/", icon = "linkedin" }
 ]
+
+theme.background = "#173B80"
+theme.foreground = "#FFF" # text and portrait border
+theme.hover = "#ffdd57" # link hover
