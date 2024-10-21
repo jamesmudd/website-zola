@@ -16,3 +16,9 @@ highlight_code = false
 
 [extra]
 # Put all your custom variables here
+author.name = "James"
+links = [
+    { title = "GitHub", url = "https://github.com/jamesmudd", icon = "github" },
+    { title = "Twitter", url = "https://twitter.com/jamesmudd", icon = "twitter" },
+    { title = "LinkedIn", url = "https://www.linkedin.com/in/jamesmudd/", icon = "linkedin" }
+]
