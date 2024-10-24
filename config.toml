@@ -19,7 +19,7 @@ highlight_code = false
 author.name = "James Mudd"
 iam = "I am"
 links = [
-#    { title = "GitHub", url = "https://github.com/jamesmudd", icon = "github" },
+    { title = "GitHub", url = "https://github.com/jamesmudd", icon = "github" },
     { title = "Twitter", url = "https://twitter.com/jamesmudd", icon = "twitter" },
     { title = "LinkedIn", url = "https://www.linkedin.com/in/jamesmudd/", icon = "linkedin" }
 ]
