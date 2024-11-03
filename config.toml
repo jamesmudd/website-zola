@@ -21,7 +21,9 @@ iam = "I am"
 links = [
     { title = "GitHub", url = "https://github.com/jamesmudd", icon = "github" },
     { title = "Twitter", url = "https://twitter.com/jamesmudd", icon = "twitter" },
-    { title = "LinkedIn", url = "https://www.linkedin.com/in/jamesmudd/", icon = "linkedin" }
+    { title = "LinkedIn", url = "https://www.linkedin.com/in/jamesmudd/", icon = "linkedin" },
+    { title = "Stack Overflow", url = "https://stackoverflow.com/users/4653517/james-mudd", icon = "stack-overflow" },
+    { title = "Google Scholar", url = "https://scholar.google.com/citations?user=E77KuSgAAAAJ&hl=en", icon = "google" }
 ]
 
 theme.background = "#173B80"
